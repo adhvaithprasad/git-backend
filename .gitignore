@@ -3,5 +3,3 @@ tmp
 *.pem
 .breakpoints
 repos
-.package.json
-.package-lock.json
