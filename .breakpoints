@@ -1,5 +1,13 @@
 {
   "files": {
+    ".gitignore": [
+      {
+        "id": "1b45559d-7810-403b-8e4d-6d0d8608b70b",
+        "line": 7,
+        "version": 85,
+        "index": 98
+      }
+    ],
     "clone.sh": [
       {
         "id": "096e592e-2e66-4dfa-9414-86f9dfee841b",
