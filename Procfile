@@ -1,1 +1,1 @@
-web: node index.js --https
+web: npm start --port 7005
