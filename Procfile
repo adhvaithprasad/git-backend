@@ -1,1 +1,1 @@
-web: chmod +rwx index.js && node index.js --https
+web: node index.js --https
